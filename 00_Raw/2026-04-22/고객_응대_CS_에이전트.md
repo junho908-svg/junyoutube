@@ -1,5 +1,5 @@
 ---
-id: BP-2026-6577
+id: BP-2026-2690
 title: "고객 응대 CS 에이전트"
 type: "Training Program (The Construct)"
 category: "10_Wiki/🚀 Skills/The_Construct"
