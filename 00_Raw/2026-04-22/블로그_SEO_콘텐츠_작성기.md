@@ -1,5 +1,5 @@
 ---
-id: BP-2026-9175
+id: BP-2026-636
 title: "블로그·SEO 콘텐츠 작성기"
 type: "Training Program (The Construct)"
 category: "10_Wiki/🚀 Skills/The_Construct"
