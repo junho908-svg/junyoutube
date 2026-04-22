@@ -1,5 +1,5 @@
 ---
-id: BP-2026-9761
+id: BP-2026-8994
 title: "코딩 어시스턴트 Pro"
 type: "Training Program (The Construct)"
 category: "10_Wiki/🚀 Skills/The_Construct"
