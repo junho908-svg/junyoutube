@@ -7,3 +7,8 @@ node_modules/
 *.log
 .cache/
 Thumbs.db
+
+# Secrets
+oauth.local.json
+*_token.json
+credentials.json
