@@ -1,0 +1,89 @@
+{
+  "tasks": [
+    {
+      "id": "20260509135737-gby8",
+      "title": "색상 사용: Deep Indigo ($\\#303F9F$) 및 Aged Gold ($\\#C9A84E$)만 사용했는가? (O)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-09T13:57:37.034Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T13-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T13-55/_report.md\n- Designer: Researcher가 제시한 '관계 회복 3단계 실천법' 또는 현재 기획 중인 주제에 대해, '고통 $\rightarrow$ 해방'의 감정 흐름을\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\n요청하신 '고통 $ \\rightarrow $ 해방' 감정 흐름을 시각적으로 극대화하는 최종 썸네일 마스터 컴포넌트 디자인(템플릿 2)을 Deep Indigo 및 Aged Gold 팔레트 내에서 구현하고 개발팀 전달 준비를 완료합니다.\n\n이 디자인은 **Deep Indigo/Aged Gold** 시각 시스템과 **고",
+      "completedAt": "2026-05-09T13:57:37.067Z"
+    },
+    {
+      "id": "20260509135737-u8rl",
+      "title": "고통 영역 폰트: 세리프체 + 흰색 텍스트인가? (O)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-09T13:57:37.049Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T13-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T13-55/_report.md\n- Designer: Researcher가 제시한 '관계 회복 3단계 실천법' 또는 현재 기획 중인 주제에 대해, '고통 $\rightarrow$ 해방'의 감정 흐름을\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\n요청하신 '고통 $ \\rightarrow $ 해방' 감정 흐름을 시각적으로 극대화하는 최종 썸네일 마스터 컴포넌트 디자인(템플릿 2)을 Deep Indigo 및 Aged Gold 팔레트 내에서 구현하고 개발팀 전달 준비를 완료합니다.\n\n이 디자인은 **Deep Indigo/Aged Gold** 시각 시스템과 **고",
+      "completedAt": "2026-05-09T13:57:37.069Z"
+    },
+    {
+      "id": "20260509135737-g9dk",
+      "title": "해방 영역 폰트: 산세리프체 + Aged Gold 텍스트인가? (O)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-09T13:57:37.052Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T13-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T13-55/_report.md\n- Designer: Researcher가 제시한 '관계 회복 3단계 실천법' 또는 현재 기획 중인 주제에 대해, '고통 $\rightarrow$ 해방'의 감정 흐름을\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\n요청하신 '고통 $ \\rightarrow $ 해방' 감정 흐름을 시각적으로 극대화하는 최종 썸네일 마스터 컴포넌트 디자인(템플릿 2)을 Deep Indigo 및 Aged Gold 팔레트 내에서 구현하고 개발팀 전달 준비를 완료합니다.\n\n이 디자인은 **Deep Indigo/Aged Gold** 시각 시스템과 **고",
+      "completedAt": "2026-05-09T13:57:37.071Z"
+    },
+    {
+      "id": "20260509135737-fhyi",
+      "title": "감정 흐름 반영: 시각적 대비를 통해 '고통'에서 '해방'으로의 전환이 명확한가? (O)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-09T13:57:37.054Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T13-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T13-55/_report.md\n- Designer: Researcher가 제시한 '관계 회복 3단계 실천법' 또는 현재 기획 중인 주제에 대해, '고통 $\rightarrow$ 해방'의 감정 흐름을\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\n요청하신 '고통 $ \\rightarrow $ 해방' 감정 흐름을 시각적으로 극대화하는 최종 썸네일 마스터 컴포넌트 디자인(템플릿 2)을 Deep Indigo 및 Aged Gold 팔레트 내에서 구현하고 개발팀 전달 준비를 완료합니다.\n\n이 디자인은 **Deep Indigo/Aged Gold** 시각 시스템과 **고",
+      "completedAt": "2026-05-09T13:57:37.074Z"
+    },
+    {
+      "id": "20260509135737-nqmo",
+      "title": "목표 달성: CTR 및 시청 지속시간 극대화에 기여하는가? (O)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-09T13:57:37.058Z",
+      "status": "done",
+      "sessionDir": "2026-05-09T13-55",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-09T13-55/_report.md\n- Designer: Researcher가 제시한 '관계 회복 3단계 실천법' 또는 현재 기획 중인 주제에 대해, '고통 $\rightarrow$ 해방'의 감정 흐름을\n\nCEO 종합 요점: 🎨 Designer: 작업 시작합니다.\n\n요청하신 '고통 $ \\rightarrow $ 해방' 감정 흐름을 시각적으로 극대화하는 최종 썸네일 마스터 컴포넌트 디자인(템플릿 2)을 Deep Indigo 및 Aged Gold 팔레트 내에서 구현하고 개발팀 전달 준비를 완료합니다.\n\n이 디자인은 **Deep Indigo/Aged Gold** 시각 시스템과 **고",
+      "completedAt": "2026-05-09T13:57:37.075Z"
+    }
+  ]
+}
