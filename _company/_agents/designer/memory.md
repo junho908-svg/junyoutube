@@ -88,3 +88,4 @@ _Designer 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 - [2026-05-09] writer가 제시한 최종 스크립트 및 'Deep Indigo/Aged Gold' 시각 시스템의 감정 흐름을 기반으로, 썸네일 마스터 컴포넌트 디자인 사양(Figma 구현 준비)을 즉시 확정하고 개발팀에 전달할 준비를 완료하라. → 산출물 sessions/2026-05-09T15-25/designer.md
 - [2026-05-11] Writer가 확정한 '고통 $ightarrow$ 해방' 감정 흐름과 'Deep Indigo/Aged Gold' 시각 시스템을 기반으로, 영상 도입부(Hook)에 최적화된 썸네일 마스터 컴포넌트 디자인 사양을 Figma에 즉시 구현하고 개발팀에 전달할 준비를 완료하라. → 산출물 sessions/2026-05-11T14-02/designer.md
 - [2026-05-11] Writer가 재구성한 스크립트의 감정 흐름과 'Deep Indigo/Aged Gold' 시각 시스템을 기반으로, 영상 도입부(Hook)에 최적화된 썸네일 마스터 컴포넌트 디자인 사양을 Figma에 즉시 구현하고 개발팀에 전달할 준비를 완료하라. → 산출물 sessions/2026-05-11T14-17/designer.md
+- [2026-05-11] '고통 $ightarrow$ 해방' 프레임워크와 'Deep Indigo/Aged Gold' 시각 시스템을 기반으로, 혈당 관련 영상에 최적화된 썸네일 마스터 컴포넌트 디자인 사양(Hook 강조 포함)을 Figma에 즉시 구현할 준비를 할 것. → 산출물 sessions/2026-05-11T14-47/designer.md
