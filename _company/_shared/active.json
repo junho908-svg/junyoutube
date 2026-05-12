@@ -1,48 +1,28 @@
 {
-  "_migrated": true,
-<<<<<<< HEAD
-  "_migrated_v2": true,
-  "secretary": {
-    "activatedAt": "2026-05-12T06:52:37.357Z",
-    "seeded": true
-  },
   "youtube": {
-    "activatedAt": "2026-05-12T06:52:37.357Z",
-    "seeded": true
+    "activatedAt": "2026-05-12T07:05:39.332Z"
+  },
+  "_migrated": true,
+  "secretary": {
+    "activatedAt": "2026-05-12T07:05:39.349Z"
   },
   "writer": {
-    "activatedAt": "2026-05-12T06:52:37.357Z",
-    "seeded": true
+    "activatedAt": "2026-05-12T07:05:39.349Z"
   },
   "designer": {
-    "activatedAt": "2026-05-12T06:52:37.357Z",
-    "seeded": true
-  }
-=======
-  "researcher": {
-    "activatedAt": "2026-05-09T12:44:44.759Z"
+    "activatedAt": "2026-05-12T07:05:39.349Z"
   },
+  "_migrated_v2": true,
   "instagram": {
-    "activatedAt": "2026-05-09T12:44:48.945Z"
+    "activatedAt": "2026-05-12T07:05:44.049Z"
   },
   "developer": {
-    "activatedAt": "2026-05-09T14:56:42.089Z"
+    "activatedAt": "2026-05-12T07:05:53.094Z"
   },
   "business": {
-    "activatedAt": "2026-05-09T14:56:44.688Z"
+    "activatedAt": "2026-05-12T07:05:55.450Z"
   },
-  "secretary": {
-    "activatedAt": "2026-05-10T06:42:14.294Z"
-  },
-  "youtube": {
-    "activatedAt": "2026-05-10T06:42:14.294Z"
-  },
-  "writer": {
-    "activatedAt": "2026-05-10T06:42:14.294Z"
-  },
-  "designer": {
-    "activatedAt": "2026-05-10T06:42:14.294Z"
-  },
-  "_migrated_v2": true
->>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
+  "researcher": {
+    "activatedAt": "2026-05-12T07:05:58.825Z"
+  }
 }
