@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "ceo": "google/gemma-4-e2b",
   "secretary": "google/gemma-4-e4b",
   "youtube": "google/gemma-4-e4b",
@@ -8,4 +9,15 @@
   "editor": "google/gemma-4-e4b",
   "designer": "google/gemma-4-e4b",
   "instagram": "google/gemma-4-e4b"
+=======
+  "ceo": "gemma4:e2b",
+  "secretary": "gemma4:e4b",
+  "youtube": "gemma4:e4b",
+  "researcher": "gemma4:e4b",
+  "business": "gemma4:e4b",
+  "writer": "gemma4:e4b",
+  "editor": "gemma4:e4b",
+  "designer": "gemma4:e2b",
+  "instagram": "gemma4:e4b"
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 }

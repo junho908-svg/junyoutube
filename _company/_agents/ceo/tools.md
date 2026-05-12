@@ -22,12 +22,18 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
+<<<<<<< HEAD
 ### `router`
 사용자 명령 → 적합한 specialist로 분배 (CEO 클래시파이어 내장)
+=======
+### `approval_gate`
+위험 액션(deploy/post/send/rm) 사용자 승인 게이트
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 - `enabled`: true
 - `requires_credentials`: `config.md` 참조
 
+<<<<<<< HEAD
 
 ---
 
@@ -44,6 +50,19 @@ _아래 도구들은 향후 버전에서 추가 예정. 지금은 카탈로그�
 주간 전체 회의 자동 진행 + 회의록 정리
 
 - 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
+=======
+### `team_briefing`
+주간 전체 회의 자동 진행 + 회의록 정리
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `router`
+사용자 명령 → 적합한 specialist로 분배
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 
 ---

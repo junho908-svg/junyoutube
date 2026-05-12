@@ -7,3 +7,11 @@ node_modules/
 *.log
 .cache/
 Thumbs.db
+<<<<<<< HEAD
+=======
+
+# Secrets
+oauth.local.json
+*_token.json
+credentials.json
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639

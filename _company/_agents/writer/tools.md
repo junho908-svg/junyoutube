@@ -22,6 +22,7 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
+<<<<<<< HEAD
 _⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
 
 ## 로드맵 (예정)
@@ -40,6 +41,25 @@ _⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 L
 후크·CTA 라이브러리 운영
 
 - 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
+=======
+### `tone_learner`
+사용자 과거 글 학습 → 톤 복제
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `multi_platform_adapt`
+하나의 스크립트 → YouTube/IG/블로그 자동 변환
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `hook_library`
+후크·CTA 라이브러리 운영
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 
 ---

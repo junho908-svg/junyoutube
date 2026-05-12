@@ -22,6 +22,7 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
+<<<<<<< HEAD
 _⚠️ 이 에이전트의 도구는 모두 로드맵 단계입니다. 현재 LLM 추론만 가능하고, 외부 API 호출이나 파일 생성은 아직 동작하지 않습니다._
 
 ## 로드맵 (예정)
@@ -50,6 +51,37 @@ Vercel/Netlify/Cloudflare 배포 (deploy --prod는 항상 승인)
 테스트·린트·타입체크 자동 실행
 
 - 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
+=======
+### `project_scaffolder`
+_company/projects/<name>/ 폴더 자동 생성 (vite/next/astro)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `dev_server`
+자체 dev server + 포트 매니저 + 라이브 미리보기 푸시
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `git_committer`
+작업 단위 자동 커밋
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `deploy_cli`
+Vercel/Netlify/Cloudflare 배포 (deploy --prod는 항상 승인)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `lint_test`
+테스트·린트·타입체크 자동 실행
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 
 ---

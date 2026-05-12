@@ -22,6 +22,7 @@ AUTONOMY_LEVEL: 2
 
 ## 사용 가능한 도구
 
+<<<<<<< HEAD
 ### `telegram_setup`
 텔레그램 양방향 봇 (Bot Token + Chat ID)
 
@@ -60,6 +61,37 @@ CalDAV (iCloud/Google 호환)
 IMAP/Gmail 분류 + 답장 초안
 
 - 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
+=======
+### `calendar_local`
+_agents/secretary/calendar.md (Lv.1 오프라인)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `calendar_caldav`
+CalDAV (iCloud/Google 호환, Connected 토글)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `telegram_bot`
+텔레그램 양방향 봇 (이미 활성)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `kakao_alert`
+카카오톡 "나에게 보내기" 단방향 알림
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `email_triage`
+IMAP/Gmail 분류 + 답장 초안
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 
 ---

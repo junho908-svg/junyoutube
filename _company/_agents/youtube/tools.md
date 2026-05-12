@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # 📺 레오 — 도구 매니페스트
 
 _레오 에이전트가 어떤 도구를 어디까지 자율적으로 쓸 수 있는지 정의합니다._
+=======
+# 📺 YouTube — 도구 매니페스트
+
+_YouTube 에이전트가 어떤 도구를 어디까지 자율적으로 쓸 수 있는지 정의합니다._
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 _매번 시스템 프롬프트로 주입되며, 텔레그램에서 `/tools`로 현재 상태 확인 가능._
 
 ---
@@ -23,17 +29,44 @@ AUTONOMY_LEVEL: 2
 ## 사용 가능한 도구
 
 ### `youtube_account`
+<<<<<<< HEAD
 YouTube Data API v3 + OAuth 연결
+=======
+YouTube Data API v3 OAuth 연결
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `comment_replier`
+댓글 분류 + 답글 초안 (Draft 레벨에서 동작)
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `video_uploader`
+제목·태그·썸네일·예약발행 업로드
+
+- `enabled`: true
+- `requires_credentials`: `config.md` 참조
+
+### `analytics_pull`
+주간 인사이트 (조회수·시청 지속률·구독 전환)
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 - `enabled`: true
 - `requires_credentials`: `config.md` 참조
 
 ### `trend_sniper`
+<<<<<<< HEAD
 키워드 기반 떡상 영상 패턴 분석
+=======
+내 분야 트렌드 → Writer에게 아이디어 전달
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 - `enabled`: true
 - `requires_credentials`: `config.md` 참조
 
+<<<<<<< HEAD
 ### `auto_planner`
 트렌드 스나이퍼 무인 반복 실행 (24시간 자율)
 
@@ -92,6 +125,8 @@ _아래 도구들은 향후 버전에서 추가 예정. 지금은 카탈로그�
 
 - 아직 구현되지 않은 도구입니다. 로드맵에 있으며 향후 버전에서 추가 예정.
 
+=======
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 
 ---
 

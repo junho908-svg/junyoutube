@@ -1,5 +1,6 @@
 {
   "_migrated": true,
+<<<<<<< HEAD
   "_migrated_v2": true,
   "secretary": {
     "activatedAt": "2026-05-12T06:52:37.357Z",
@@ -17,4 +18,31 @@
     "activatedAt": "2026-05-12T06:52:37.357Z",
     "seeded": true
   }
+=======
+  "researcher": {
+    "activatedAt": "2026-05-09T12:44:44.759Z"
+  },
+  "instagram": {
+    "activatedAt": "2026-05-09T12:44:48.945Z"
+  },
+  "developer": {
+    "activatedAt": "2026-05-09T14:56:42.089Z"
+  },
+  "business": {
+    "activatedAt": "2026-05-09T14:56:44.688Z"
+  },
+  "secretary": {
+    "activatedAt": "2026-05-10T06:42:14.294Z"
+  },
+  "youtube": {
+    "activatedAt": "2026-05-10T06:42:14.294Z"
+  },
+  "writer": {
+    "activatedAt": "2026-05-10T06:42:14.294Z"
+  },
+  "designer": {
+    "activatedAt": "2026-05-10T06:42:14.294Z"
+  },
+  "_migrated_v2": true
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 }

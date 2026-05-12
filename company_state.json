@@ -1,6 +1,13 @@
 {
+<<<<<<< HEAD
   "tasksCompleted": 0,
   "knowledgeInjected": 0,
   "lastSessionDate": "",
   "foundedAt": "2026-05-12"
+=======
+  "tasksCompleted": 313,
+  "knowledgeInjected": 6,
+  "lastSessionDate": "",
+  "foundedAt": "2026-05-01"
+>>>>>>> 9de82525a5f930ae56a4a48dd628692c1d1e7639
 }
